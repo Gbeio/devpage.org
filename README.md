@@ -5,4 +5,4 @@ gbeio.github.com
 <a href="https://gbeio.github.io/www.devpage.org/about.htm">Page</a>
 ![my pre Slide 2](https://user-images.githubusercontent.com/d.jpg)
 <button on click="page">page</button>
-<input type="text"value="the"></input>
+<input type="text">
