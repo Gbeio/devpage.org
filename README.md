@@ -2,4 +2,4 @@
 
 [site Page](http://gbeio.github.io/www.devpage.org/README.md)
 
-[page](https://gbeio.github.io/devpage.org/README.md)
+[page]
