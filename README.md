@@ -1,4 +1,4 @@
 # gbeio.github.com
 
-[Page](http://gbeio.github.io/theme.html)
-[button](style.css)
+[Page](http://gbeio.github.io/gbeio.github.org/README.md)
+
