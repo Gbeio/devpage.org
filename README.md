@@ -3,3 +3,4 @@
 # www.devpage.org/sear?=readme.md
 gbeio.github.com
 <a href="https://gbeio.github.io/www.devpage.org/about.htm">Page</a>
+[my pre Slide 3](https://user-images.githubusercontent.com/d.jpg)
