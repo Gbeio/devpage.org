@@ -1,5 +1,5 @@
 # gbeio.github.io
-<link rel="stylesheets"href="style.css"/>
-[Page](http://gbeio.github.io/gbeio.github.org/README.md)
 
-[Wikipedia's](https://gbeio.github.io/devpage.org.git)
+[site Page](http://gbeio.github.io/www.devpage.org/README.md)
+
+[page](https://gbeio.github.io/devpage.org)
