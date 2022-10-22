@@ -1,3 +1,3 @@
 # gbeio.github.com
 gbeio.github.com
-[Page](index.html)
+[Page](http://gbeio.github.io/theme.html)
