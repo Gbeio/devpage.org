@@ -1,2 +1,2 @@
-# www.devpage.org
+# wwwdevpage.org
 gbeio.github.com
