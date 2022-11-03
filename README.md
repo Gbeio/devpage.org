@@ -41,6 +41,5 @@ No title for single profiles. Default to 'Blog authors' for team.
  <iframe src="https://google.com"width="200"height="300">
 Change link to 'visit profile'
 FLAT yyyy true 09/05/2015 false true MONTHLY
-Details</body></head>
-ALPHA LIST ALL false
-Details
+<a href="about.html">index</a>Details<marquee>2015.E.C</marquee></body></head>
+
