@@ -29,7 +29,7 @@ Overridden, and migrated to postFooter. Called as postFooterJumpLink. We don't d
 We call super.postShareButtons from the migrated positions.
 Don't show
 
-
+<img src="03-01-12-00-06.jpg">
 
 
 3 true true LAST_YEAR Default the title to 'Popular posts from this blog'.
