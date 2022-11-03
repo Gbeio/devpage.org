@@ -1,5 +1,5 @@
-# www.devpage.net
-gbeio.github.com
+# gbeio.devpage.net
+repository <https://github.com/gbeio/
 [button](<link rel="stylesheet"href="style.css">)
 
 <img src="d.jpg">
