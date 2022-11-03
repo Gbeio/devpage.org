@@ -22,7 +22,7 @@ dhalaa biyya awroopaa
 
 Clear out style (needs to be a non-empty string) Don't show feed links.
 ()
-Don't show<img src="#.jpg"></img>
+Don't show<img src="#.jpg">
 
 Ripple, and show 'keep reading' as the default.
 Overridden, and migrated to postFooter. Called as postFooterJumpLink. We don't display labels on the home page.
