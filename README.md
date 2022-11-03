@@ -1,4 +1,4 @@
-# gbeio.devpage.net
+<!DocType html><head><body># gbeio.devpage.net
 repository <https://github.com/gbeio/
 [button](<link rel="stylesheet"href="style.css">)
 
@@ -40,6 +40,6 @@ No title for single profiles. Default to 'Blog authors' for team.
 
 Change link to 'visit profile'
 FLAT yyyy true MMMM yyyy MMM dd MM/dd false true MONTHLY
-Details
+Details</body></head>
 ALPHA LIST ALL false
 Details
