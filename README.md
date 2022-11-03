@@ -37,7 +37,7 @@ Ripple, and show 'keep reading' as the default.
 Overridden, and migrated to postFooter. Called as postFooterJumpLink. We don't display labels on the home page. We call super.postShareButtons from the migrated positions. Add a 'keep reading' link to the item-content.
 true true
 No title for single profiles. Default to 'Blog authors' for team.
-<source src="jireenyaa.3gp">
+<video src="jireenyaa.3gp"autoplay muted>
  <iframe src="https://google.com"width="200"height="300">
 Change link to 'visit profile'
 FLAT yyyy true 09/05/2015 false true MONTHLY
