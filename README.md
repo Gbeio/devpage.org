@@ -1,5 +1,5 @@
 <!DocType html><head><body># gbeio.devpage.net
-repository <https://github.com/gbeio/gbeio.devpage.net/index.html
+repository <https://github.com/gbeio/gbeio.devpage.net
 <link rel="stylesheets"href="style.css">
 
 <img src="d.jpg">
