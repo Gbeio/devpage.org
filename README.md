@@ -1,5 +1,5 @@
 <!DocType html><head><body># gbeio.devpage.net
-repository <a href="https://github.com/gbeio/gbeio.devpage.net"target="_blank">Page</a>
+repository <a href="https://github.com/gbeio/gbeio.devpage.net"target="main_Page">Page</a>
 <link rel="stylesheets"href="style.css">
 
 <img src="d.jpg">
@@ -38,6 +38,7 @@ Overridden, and migrated to postFooter. Called as postFooterJumpLink. We don't d
 true true
 No title for single profiles. Default to 'Blog authors' for team.
 <video src="jireenyaa.3gp">
+ <iframe src="https://google.com"width="200"height="300">
 Change link to 'visit profile'
 FLAT yyyy true 09/05/2015 false true MONTHLY
 Details</body></head>
