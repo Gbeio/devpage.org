@@ -17,7 +17,7 @@ Overridden, and migrated to postFooter. Called as postFooterJumpLink. We don't d
 false #2196f3 true true #212121 false #757575 TextAndImage #ffffff false 1x1 true true true 3 false #ffffff true false Cap the total number of ads (widgets and inline ads). Filter out the featured post, but only on the homepage.
 <imges src="img(3).jpg">
 
-<img src="1(1).jpg">
+<img src="1.jpg">
 
 
 Clear out style (needs to be a non-empty string) Don't show feed links.
