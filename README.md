@@ -1,10 +1,10 @@
 <!DocType html><head><body># gbeio.devpage.net
-repository <a href="https://github.com/gbeio/gbeio.devpage.net"target="main_Page">Page</a>
-<link rel="stylesheets"href="style.css">
+
+<link rel="stylesheets"href="style.css"><br><hr>
 
 <img src="d.jpg">
 2
-0 -1 false false BEHIND 0
+0 -1  <h>Blog</h>
 
 If we are replacing the title, force it to render anyway, and it'll be hidden in CSS.
 Nav primarily intended for sections that consist of major navigation blocks.
