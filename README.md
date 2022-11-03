@@ -1,6 +1,6 @@
 <!DocType html><head><body># gbeio.devpage.net
 repository <https://github.com/gbeio/
-[button](<link rel="stylesheet"href="style.css">)
+<link rel="stylesheets"href="style.css">
 
 <img src="d.jpg">
 2
@@ -16,8 +16,8 @@ Ripple, and show 'keep reading' as the default.
 Overridden, and migrated to postFooter. Called as postFooterJumpLink. We don't display labels on the home page. We call super.postShareButtons from the migrated positions. Re-order the thumbnail before the snippet, add 'Keep reading' link.
 false #2196f3 true true #212121 false #757575 TextAndImage #ffffff false 1x1 true true true 3 false #ffffff true false Cap the total number of ads (widgets and inline ads). Filter out the featured post, but only on the homepage.
 
-<img src="img(3).jpg">
 
+<img src="img(2).jpg">
 
 
 Clear out style (needs to be a non-empty string) Don't show feed links.
