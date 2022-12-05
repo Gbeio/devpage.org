@@ -1,6 +1,6 @@
-<!DocType html><head><body>#mysamsung
+<!DocType html><head><body>###mysamsung
 
-<link rel="stylesheets"href="style.css"><br><hr>
+<link rel="stylesheet"href="style.css"><br><hr>
 
 <img src="d.jpg">
 2
