@@ -1,4 +1,4 @@
-<!DocType html><head><body># gbeio.devpage.net
+<!DocType html><head><body>#mysamsung
 
 <link rel="stylesheets"href="style.css"><br><hr>
 
